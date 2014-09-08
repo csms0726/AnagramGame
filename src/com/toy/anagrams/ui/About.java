@@ -27,7 +27,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
  */
 
-/* Anagram Game Application */
+/* Anagram Game Application test remote */
 
 package com.toy.anagrams.ui;
 
