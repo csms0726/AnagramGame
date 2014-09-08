@@ -34,7 +34,7 @@ package com.toy.anagrams.lib;
 /**
  * Implementation of the logic for the Anagram Game application.
  * test commit
- * branch test
+ * branch testing
  */
 final class StaticWordLibrary extends WordLibrary {
 
